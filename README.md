@@ -18,4 +18,4 @@
 
 ## Live link
 
-[Live on Heroku](https://https://one-tennis.herokuapp.com)
+[Live on Heroku](https://one-tennis.herokuapp.com)
